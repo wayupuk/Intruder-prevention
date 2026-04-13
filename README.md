@@ -40,8 +40,7 @@ If you wish to upgrade the system using more powerful AI models like **Ultralyti
 - **API Interaction**: The Arduino will capture/signal events and send them via API requests to the hosted server for complex object detection and classification.
 
 ## Flowchart
-![Flowchart](Flowchart_Image_Path.png)
-*Please replace 'Flowchart_Image_Path.png' with your image file path.*
+![Flowchart](./FlowC.jpg)
 
 Refer to [FlowC.pdf](./FlowC.pdf) for the full logic details.
 
