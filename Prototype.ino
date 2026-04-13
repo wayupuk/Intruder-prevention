@@ -1,6 +1,5 @@
 #include <LiquidCrystal_I2C.h>
 #include  <Wire.h>
-#include <DHT11.h>
 #include "HUSKYLENS.h"
 #include <Servo.h>
 
